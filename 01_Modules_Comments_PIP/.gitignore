@@ -1,0 +1,3 @@
+# Ignore machine-specific and environment-specific information
+
+.venv/
