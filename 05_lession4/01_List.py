@@ -3,7 +3,7 @@ list =["Orange", 5 , 1 , 7 , 98.9 , None , bool] # Lists are mutable , a list ca
 print("Before :",list)
 
 list.append("Mangos") # add in the end of the list.
-
+list.remove(bool)
 print("After :",list)
 print(list[2:])
 # print(list[5]) Error : IndexError: list index out of range
