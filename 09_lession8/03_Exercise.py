@@ -1,0 +1,1 @@
+# Q. Write a python function to remove a given word form a list & strip it at the same time.
