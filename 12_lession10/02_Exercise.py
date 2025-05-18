@@ -1,0 +1,1 @@
+# Write a class "calculator" capable of finding square,cube and square a root of a number.
