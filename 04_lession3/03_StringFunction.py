@@ -5,4 +5,4 @@ print("Ends with :",name.endswith("der"))
 print("starts with :",name.startswith("Th"))
 print("Capital method :",name.capitalize()) 
 
-#Tip: Explore more methodds of strings
+#Tip: Explore more methods of strings
