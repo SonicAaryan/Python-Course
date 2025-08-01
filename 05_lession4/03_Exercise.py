@@ -2,6 +2,7 @@
 
 tuple = (23, 'rihan')
 
+print(type(tuple))
 tuple[1] ='Om'
 
 print(tuple)

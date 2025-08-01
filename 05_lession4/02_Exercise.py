@@ -5,8 +5,7 @@ studentMarks = []
 marksLength = int(input("Enter length for student: "))
 
 for _ in range(marksLength):
-    marks= int(input("Enter studen mark :"))
-    studentMarks.append(marks)
+    marks = int(input("Enter studen mark :"))
     studentMarks.sort()
     
 print("ALl student marks :",studentMarks)

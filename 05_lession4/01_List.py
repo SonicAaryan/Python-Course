@@ -1,5 +1,5 @@
-
-list =["Orange", 5 , 1 , 7 , 98.9 , None , bool] # Lists are mutable , a list can be indexed just like a string.
+# Lists are mutable , a list can be indexed just like a string.
+list =["Orange", 5 , 1 , 7 , 98.9 , None , bool] 
 print("Before :",list)
 
 list.append("Mangos") # add in the end of the list.
